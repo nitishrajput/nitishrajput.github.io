@@ -69,7 +69,7 @@ fadeEls.forEach(el => observer.observe(el));
 const roles = [
   'Site Reliability Engineer',
   'DevOps Engineer',
-  'Cloud Architect',
+  'Cloud Engineer',
   'Platform Engineer',
   'AI Enthusiast',
 ];
